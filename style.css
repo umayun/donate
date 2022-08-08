@@ -12,9 +12,8 @@ padding: 0;
  text-align: center;
  color: aliceblue;
  background-image: linear-gradient(rgb(50, 250, 5) rgb(80, 234, 170));
-
-
 }
+
 .link-bottom{
   text-decoration: none;
   background-color: black;
@@ -23,19 +22,20 @@ padding: 0 20px;
 font-weight: 400;
 color:whitesmoke;}
  .second{
-  text-align: center;
+text-align: center;
    padding: 30px ;
  }
  .second p{
    font-size: small;
    padding: 10px 2px ;
    color: slategrey;
+   
  }
 .taka{
+  margin-: 30px ;
    display: inline-block; 
-   padding: 25px ;
- padding-right: 40px;
-
+ padding-left: 35% ;
+text-align: justify;
 }
 .taka ul li{
   display: inline;
@@ -122,11 +122,43 @@ padding: 10px 50px ;
 }
 #suppot h1{ 
   font-weight: 700;
-
+color: #2F4F4F
+ 
 ;font-size: 30px;
  
 }
 #suppot p{
   padding: 10px;
-font-size: smaller;
+font-size:small;
+color:#20B2AA;}
+
+.us{
+  text-decoration: none;
+  border-radius: 5px ;
+  background-color: #B0E0E6;
+  padding: 8px 30px ;
+}
+.finisher h1{
+  text-align: center;
+  font-weight: 800;
+  font-weight: bolder;
+  
+}
+.finisher p{
+  text-align: center;
+  font-size: small;
+  padding: 5px 20px ;
+  color:#708090 ;
+}
+.done{
+ 
+ text-align: center;
+margin: 50px;
+}
+#footer{
+  margin: 0%;
+  text-align: center;
+  background-color: CadetBlue;
+padding: 8% 100px ;
+ 
 }
