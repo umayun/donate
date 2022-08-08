@@ -1,1 +1,23 @@
 body{font-family: 'Poppins', sans-serif;}
+*{
+margin: 0;
+padding: 0;
+}
+.top{
+  background-image: url(donation9.jpg);
+  background-repeat: no-repeat ; 
+  height: 600px;
+ background-size: 100%;
+ padding: 30% 10px;
+ text-align: center;
+ color: aliceblue;
+ background-image: linear-gradient(white gray);
+
+
+}
+.link-bottom{
+  text-decoration: none;
+  background-color: rgb(52, 201, 22);
+ border-radius: 5px;
+padding: 0 20px;
+color:black;}
