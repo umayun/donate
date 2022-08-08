@@ -8,16 +8,44 @@ padding: 0;
   background-repeat: no-repeat ; 
   height: 600px;
  background-size: 100%;
- padding: 30% 10px;
+ padding: 10% 10px ;
  text-align: center;
  color: aliceblue;
- background-image: linear-gradient(white gray);
+ background-image: linear-gradient(rgb(50, 250, 5) rgb(80, 234, 170));
 
 
 }
 .link-bottom{
   text-decoration: none;
-  background-color: rgb(52, 201, 22);
- border-radius: 5px;
+  background-color: black;
+  
+ border-radius: 10px;
 padding: 0 20px;
-color:black;}
+font-weight: 400;
+color:whitesmoke;}
+ .second{
+   text-align: center;
+ }
+.taka{
+   display: inline-block; 
+   padding: 25px ;
+ padding-right: 40px;
+text-align: center;
+}
+.taka ul li{
+  display: inline;
+font-weight: 700;
+background-color: wheat;
+border: 70px 50px;
+padding: 10px 20px;
+}
+.now{ text-align: end;
+  text-decoration: none;
+  background-color: gray;
+  padding: 5px 20px;
+  border-radius: 10px 20px ;
+  
+}
+.our-plan{
+  text-align: center;
+}
