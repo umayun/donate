@@ -101,4 +101,32 @@ padding: 10px 50px ;
      background-color: #ADD8E6;
      padding: 100px 10px ;
      margin-left: 10px ;}
-   
+   #help{
+     text-align: center;
+     color: brown;
+   }
+   .suppot{display: inline-flex;
+    padding: 30px ;
+    
+   }
+.lost{
+
+  border-radius: 4px;
+  padding: 4px;
+  width: 300px;
+ } 
+  
+#suppot{
+  width: 40%;
+  padding: 50px ;
+}
+#suppot h1{ 
+  font-weight: 700;
+
+;font-size: 30px;
+ 
+}
+#suppot p{
+  padding: 10px;
+font-size: smaller;
+}
