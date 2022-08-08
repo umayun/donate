@@ -18,13 +18,12 @@ padding: 0;
 .link-bottom{
   text-decoration: none;
   background-color: black;
-  
- border-radius: 10px;
+  border-radius: 10px;
 padding: 0 20px;
 font-weight: 400;
 color:whitesmoke;}
  .second{
-   text-align: center;
+  text-align: center;
    padding: 30px ;
  }
  .second p{
@@ -36,7 +35,7 @@ color:whitesmoke;}
    display: inline-block; 
    padding: 25px ;
  padding-right: 40px;
-text-align: center;
+
 }
 .taka ul li{
   display: inline;
@@ -44,12 +43,34 @@ font-weight: 700;
 background-color: wheat;
 border: 70px 50px;
 padding: 10px 20px;
+text-align: center;
 }
 .now{ text-align: end;
   text-decoration: none;
   background-color: gray;
   padding: 5px 20px;
   border-radius: 10px 20px ;
-  
+  }
+ #other{
+   margin: 5%;
+   text-align: center;
+   padding: 10px 50px  ;
+ }
+#other a{
+  text-decoration: none;
+ background-color: yellowgreen;
+padding: 10px 50px ;
 }
-
+.theard{
+  text-align: center;
+  margin: 10px 5px ;
+}
+.theard h1{
+ font-size: x-large;
+ }
+ .theard p{
+   font-size: small;
+   padding: 5px 10px ;
+   
+ }
+ 
