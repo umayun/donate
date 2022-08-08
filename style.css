@@ -25,6 +25,12 @@ font-weight: 400;
 color:whitesmoke;}
  .second{
    text-align: center;
+   padding: 30px ;
+ }
+ .second p{
+   font-size: small;
+   padding: 10px 2px ;
+   color: slategrey;
  }
 .taka{
    display: inline-block; 
@@ -46,6 +52,4 @@ padding: 10px 20px;
   border-radius: 10px 20px ;
   
 }
-.our-plan{
-  text-align: center;
-}
+
